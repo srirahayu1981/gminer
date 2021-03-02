@@ -1,0 +1,1 @@
+miner.exe --algo ethash --server eth.2miners.com:2020 --user 0xe14755473c3fa36120c172ff8df1009cf25bb18f.rig_satu
